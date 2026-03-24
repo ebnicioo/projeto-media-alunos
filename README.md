@@ -1,4 +1,4 @@
-# projeto-media-alunos
+# projeto media alunos
 
 📊 Calculadora de Médias de Alunos
 
@@ -29,3 +29,4 @@ Este programa em C# permite que você registre notas de múltiplos alunos e calc
 - Validação de dados
 
 - Operações matemáticas simples
+  
